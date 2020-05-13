@@ -1,4 +1,8 @@
 # kaggle
 
 # 环境
-Python2.7
+Anaconda3
+
+更新pip: conda install mingw libpython
+
+
